@@ -1,4 +1,4 @@
-<img src="/Users/brendankariithi/Downloads/PFPR6191\ \(1\).jpg" style = "width: 50% ; margin =  auto; diplay: block"> 
+<img src="PFPR6150.jpg" style = "width: 50% ; margin =  auto; diplay: block"> 
 
 # Brendan Kariithi #
 -----------------------
@@ -9,6 +9,6 @@
   </head>
   <body>
     <h1>Aspiring Electrical Engineer, intertwining acoustics and engineering to produce high-quality loudspeaker systems.</h1>
-    <p><a href="file:///Users/brendankariithi/Downloads/Resume%20(2).pdf"></a></p>
+    <p><a href="file:///Users/brendankariithi/Downloads/Resume%20(2).pdf"></a>.</p>
   </body>
 </html>
