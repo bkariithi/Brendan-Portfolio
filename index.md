@@ -5,17 +5,6 @@
 # Brendan Kariithi #
 -----------------------
 
-<html>
-  <head>
-    <title>Brendan Kariithi</title>
-  </head>
-  <body>
-    <h1>Aspiring Electrical Engineer, intertwining acoustics and engineering to produce high-quality loudspeaker systems.</h1>
-    <p><a href="file:///Users/brendankariithi/Downloads/Resume%20(2).pdf"></a>.</p>
-  </body>
-</html>
-
-
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
 [README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
