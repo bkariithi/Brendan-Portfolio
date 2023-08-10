@@ -1,6 +1,6 @@
 
 
-<img src="/Users/brendankariithi/Downloads/PFPR6191\ \(1\).jpg" style = "width: 50% ; margin =  auto; diplay: block"> 
+<img src="PFPR6150.jpg" style = "width: 50% ; margin =  auto; diplay: block"> 
 
 # Brendan Kariithi #
 -----------------------
