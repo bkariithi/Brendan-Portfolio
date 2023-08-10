@@ -1,4 +1,4 @@
-<img src="PFPR6150.jpg" style = "width: 50% ; margin =  auto; diplay: block"> 
+<img src="./PFPR6158.jpg" style = "width: 50% ; margin =  auto; diplay: block"> 
 
 # Brendan Kariithi #
 -----------------------
