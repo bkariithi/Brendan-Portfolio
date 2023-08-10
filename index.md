@@ -1,7 +1,4 @@
----
-title: Home
-layout: home
----
+
 
 <img src="/Users/brendankariithi/Downloads/PFPR6191\ \(1\).jpg" style = "width: 50% ; margin =  auto; diplay: block"> 
 
