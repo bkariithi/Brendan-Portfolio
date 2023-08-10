@@ -1,5 +1,5 @@
 # Brendan Kariithi- Website #
-<img src="./PFPR6158 (1).jpg" style = "width: 50% ; margin =  auto; diplay: block"> 
+<img src="./PFPR6191.jpg" style = "width: 50% ; margin =  auto; diplay: block"> 
 
 ___________________________________________________________________________________
 
