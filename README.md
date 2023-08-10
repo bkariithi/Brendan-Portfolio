@@ -1,14 +1,8 @@
-<img src="./PFPR6158.jpg" style = "width: 50% ; margin =  auto; diplay: block"> 
+# Brendan Kariithi- Website #
+<img src="./PFPR6158 (1).jpg" style = "width: 50% ; margin =  auto; diplay: block"> 
 
-# Brendan Kariithi #
------------------------
+___________________________________________________________________________________
 
-<html>
-  <head>
-    <title>Brendan Kariithi</title>
-  </head>
-  <body>
-    <h1>Aspiring Electrical Engineer, intertwining acoustics and engineering to produce high-quality loudspeaker systems.</h1>
-    <p><a href="file:///Users/brendankariithi/Downloads/Resume%20(2).pdf"></a>.</p>
-  </body>
-</html>
+Aspiring Electrical & Software Engineer, intertwining acoustics, engineering, and computer science to produce high-quality loudspeaker systems.
+
+Welcome to my website. Here you will find my interests, projects I have worked on, and my professional experience as well.
